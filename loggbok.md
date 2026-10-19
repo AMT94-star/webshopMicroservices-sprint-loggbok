@@ -23,7 +23,7 @@ FE-09 Logga in från frontend
 FE-10 Visa välkomstsida efter inloggning
 FE-12 Skydda privata sidor
 
-mini-blockerare: behövde uppdatera main så att vi fick react-router installerat
+mini-blockerare: behövde uppdatera main så att vi fick react-router installerat, allokera tid för att göra setup åt Ellinor
 
 ## Sprint 3 - Vecka 40, 28 September - 4 Oktober
 ### beskriv arbetet
