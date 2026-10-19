@@ -34,6 +34,11 @@ FE-14 Undersökte betallösning
 ## Sprint 4 - Vecka 41, 5 Oktober - 11 Oktober
 ###
 Denna vecka var Ellinor Scrum Master dock så blev det så att jag och Johan planerade för veckan, satte sprintmål och gick igenom agila punkter under våra möten. Jag satte upp backlog, tilldelade uppgifterna med Johan och uppdaterade trello korten.
+FE-22 Möjlighet att logga ut
+FE-28 Sökfält med realtid filtrering för produkter på produktsidan
+FE-29 404 sida vid icke existerande endpoints
+FE-Extra La till registrering i frontend
+FE-Extra CSS och Typescript för att skapa en ordentlig layout till hela hemsidan
 
 ## Sprint 5 - Vecka 42, 12 Oktober - 18 Oktober
 ###
