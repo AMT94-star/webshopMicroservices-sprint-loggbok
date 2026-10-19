@@ -17,17 +17,17 @@ Denna vecka var Johan Scrum Master och jag hjälpte honom då att uppdatera vår
 Denna vecka 
 FE-01 Skapade repot för frontend tillsammans med Johan
 FE-04 ordnade så att Ellinor också kunde köra det lokalt
-FE-05 tillät jag frontend mot auth-service, CORS-config
+FE-05 tillät frontend mot auth-service, CORS-config
 FE-08 returnerade inloggningsdata som DTO
-FE-09 Logga in från frontend
-FE-10 Visa välkomstsida efter inloggning
-FE-12 Skydda privata sidor
 
 mini-blockerare: behövde uppdatera main så att vi fick react-router installerat, allokera tid för att göra setup åt Ellinor
 
 ## Sprint 3 - Vecka 40, 28 September - 4 Oktober
 ### beskriv arbetet
 Denna vecka var Erik Scrum Master. Jag uppdaterade backloggen på trello med nya uppgifter samt uppdaterade allas uppgifter återigen.
+FE-09 Logga in från frontend
+FE-10 Visa välkomstsida efter inloggning
+FE-12 Skydda privata sidor
 FE-15 Grundläggande kundvagn
 FE-14 Undersökte betallösning
 
@@ -45,7 +45,10 @@ FE-Extra CSS och Typescript för att skapa en ordentlig layout till hela hemsida
 Denna vecka var jag Scrum Master. Jag satte upp backlog samt tilldelning av uppgifterna.
 Denna vecka var lite spretig. 
 Omstrukturerade koden för Cart funktionaliteten
-Ornade cart layout så att det istället blir en dropdown från nav
+Ordnade cart layout så att det istället blir en dropdown från nav
+La till notifikation för när man lägger till en vara i kundvagnen
+La till så att användaren inte kan överskrida lagerstatus i sin order
+La till mindre funktionalitet som gråar ut produkt och knapp för att lägga i varukorg om produkten inte finns i lager
 FE-27 felsökte igenom order-service samt email-service då riktig mejl inte skickades. Löstes genom uppdatering av app-lösen samt små properties ändringar i spring-messenger. Tog hjälp av Johan för att ordna med spring-messenger då han är ägaren till det GitHub packaget.
 Undersökte om betallösning för att kunna påbörja implemenation av Stripe Checkout
 
