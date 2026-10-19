@@ -13,7 +13,7 @@ Som Scrum master satte jag sprintmål, påminde om möten, återkopplade med gru
 ## Sprint 2 - vecka 39, 21 September - 30 September
 ### Denna vecka gick åt att försöka få till det så att Ellinor och Erik fick igång sina tjänster lokalt då dem inte fick till det under föregående vecka. Jag gick igenom det stegvis med Ellinor då hon hade det väldigt svårt. Erik var mer självständig så hjälp behövdes inte på den fronten.
 
-Denna vecka var Johan Scrum Master och jag hjälpte honom då att uppdatera vår backlog i trello. 
+Denna vecka var Johan Scrum Master och jag hjälpte honom då att uppdatera vår backlog i trello med nya uppgifter samt så uppdaterade jag åt trello för alla. 
 Denna vecka 
 FE-01 Skapade repot för frontend tillsammans med Johan
 FE-04 ordnade så att Ellinor också kunde köra det lokalt
@@ -27,17 +27,17 @@ mini-blockerare: behövde uppdatera main så att vi fick react-router installera
 
 ## Sprint 3 - Vecka 40, 28 September - 4 Oktober
 ### beskriv arbetet
-Denna vecka var Erik Scrum Master
+Denna vecka var Erik Scrum Master. Jag uppdaterade backloggen på trello med nya uppgifter samt uppdaterade allas uppgifter återigen.
 FE-15 Grundläggande kundvagn
 FE-14 Undersökte betallösning
 
 ## Sprint 4 - Vecka 41, 5 Oktober - 11 Oktober
 ###
-Denna vecka var Ellinor Scrum Master dock så blev det så att jag och Johan planerade för veckan, satte sprintmål och gick igenom agila punkter under våra möten.
+Denna vecka var Ellinor Scrum Master dock så blev det så att jag och Johan planerade för veckan, satte sprintmål och gick igenom agila punkter under våra möten. Jag satte upp backlog, tilldelade uppgifterna med Johan och uppdaterade trello korten.
 
 ## Sprint 5 - Vecka 42, 12 Oktober - 18 Oktober
 ###
-Denna vecka var jag Scrum Master
+Denna vecka var jag Scrum Master. Jag satte upp backlog samt tilldelning av uppgifterna.
 Denna vecka var lite spretig. 
 Omstrukturerade koden för Cart funktionaliteten
 Ornade cart layout så att det istället blir en dropdown från nav
