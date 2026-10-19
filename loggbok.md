@@ -28,14 +28,23 @@ mini-blockerare: behövde uppdatera main så att vi fick react-router installera
 ## Sprint 3 - Vecka 40, 28 September - 4 Oktober
 ### beskriv arbetet
 Denna vecka var Erik Scrum Master
+FE-15 Grundläggande kundvagn
+FE-14 Undersökte betallösning
 
 ## Sprint 4 - Vecka 41, 5 Oktober - 11 Oktober
 ###
-Denna vecka var Ellinor Scrum Master
+Denna vecka var Ellinor Scrum Master dock så blev det så att jag och Johan planerade för veckan, satte sprintmål och gick igenom agila punkter under våra möten.
 
 ## Sprint 5 - Vecka 42, 12 Oktober - 18 Oktober
 ###
 Denna vecka var jag Scrum Master
+Denna vecka var lite spretig. 
+Omstrukturerade koden för Cart funktionaliteten
+Ornade cart layout så att det istället blir en dropdown från nav
+FE-27 felsökte igenom order-service samt email-service då riktig mejl inte skickades. Löstes genom uppdatering av app-lösen samt små properties ändringar i spring-messenger. Tog hjälp av Johan för att ordna med spring-messenger då han är ägaren till det GitHub packaget.
+Undersökte om betallösning för att kunna påbörja implemenation av Stripe Checkout
 
 ## Sprint 6 - Vecka 43, 19 Oktober - 25 Oktober
 ###
+Denna vecka har jag hittills:
+Fått upp repot för payment-service samt ett simpelt upplägg, bjudit in collaborators
