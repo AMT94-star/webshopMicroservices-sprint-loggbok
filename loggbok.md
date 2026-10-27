@@ -86,10 +86,10 @@ Jag var scrum master under sprinten och ansvarade för att planera backloggen oc
 - FE-34: Implementerade hantering av JWT via httponly cookie i gateway vid inloggning och skyddade anrop. Gateway läser JWT från cookien och vidarebefordrar den till mikrotjänsterna. Testade funktionaliteten. Ellinor ansvarade för utloggningsmetoderna för FE-34.
 
 ### Eventuella problem och hur jag löste dem
-Vi hade problem med driftsättningen av gateway, vilket tog en stor del av sprinten. Vi felsökte tillsammans, testade olika lösningar och omvärderade kontinuerligt vårt tillvägagångssätt för att komma vidare.
+Vi hade problem med driftsättningen av gateway vilket tog en stor del av sprinten. Vi felsökte tillsammans, testade olika lösningar och omvärderade kontinuerligt vårt tillvägagångssätt för att komma vidare.
 
 ### Samarbete och agilt arbete
-Erik var Scrum Master under denna sprint. Vi arbetade mycket tillsammans eftersom problemen med gateway påverkade hela gruppen. Genom kontinuerliga avstämningar och gemensam felsökning kunde vi utvärdera våra lösningar och anpassa arbetet efter resultaten.
+Erik var scrum master under denna sprint. Vi arbetade mycket tillsammans eftersom problemen med gateway påverkade hela gruppen. Genom kontinuerliga avstämningar och gemensam felsökning kunde vi utvärdera våra lösningar och anpassa arbetet efter resultaten.
 
 ## Sprint 7 - Vecka 44, 26 Oktober - 30 Oktober
 ### Vad jag arbetade med
