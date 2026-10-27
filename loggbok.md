@@ -77,7 +77,7 @@ Ellinor var formellt scrum master denna vecka men johan och jag ansvarade i prak
 FE-27: Orderbekräftelser skickades inte via mejl. Jag löste problemet genom att uppdatera applösenordet och justera properties konfigurationen i spring messenger. Jag tog hjälp av Johan när det visade sig att spring messenger behövde korrigeras eftersom han ansvarade för github paketet. Vi arbetade därefter tillsammans för att lösa problemet.
 
 ### Samarbete och agilt arbete
-Jag var scrum master under sprinten och ansvarade för att planera backloggen och fördela arbetsuppgifterna. Jag samarbetade även med Johan vid felsökningen av spring messenger.
+Jag var scrum master under sprinten och ansvarade för att planera backloggen och fördela arbetsuppgifterna. Under sprintplaneringen genomförde vi poker planning för att uppskatta uppgifternas omfattning. Jag följde även upp arbetet med gruppmedlemmarna under veckans gång och samarbetade med Johan vid felsökningen av spring messenger.
 
 ## Sprint 6 - Vecka 43, 19 Oktober - 23 Oktober
 ### Vad jag arbetade med
