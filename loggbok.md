@@ -3,24 +3,37 @@ Aslihan Taskin
 
 ## Inledande sammanfattning
 
-## Sprint 1 - Vecka 38, 14 September - 20 September
-Satte upp trello tavlan samt skapande av automations- regler och listor som förbättrade och förtydligade arbetsflödet.
-Som Scrum master satte jag upp sprintmål för denna vecka vilket var att driftsätta våra servrar på Render igen, uppdatera våra databaser samt att varje gruppmedlem skulle skapa ett upplägg så att varje mikrotjänst skulle kunna köras lokalt. Tanken var att varje medlem hade ansvar för sitt repo från i våras och skulle då få igång det lokalt och uppdatera sitt repo därefter.
-Denna vecka satte jag igång min Render server igen, skapade en ny databas på Render samt skapade ett lokalt upplägg så att varje gruppmedlem skulle kunna köra auth-server lokalt. Jag satte även upp det lokala upplägget för email-service samt order-service då det inte blev gjort av respektive repo-ägare.
+## Sprint 1 – Vecka 38, 14–20 september
+### Vad jag arbetade med
+- Strukturerade trello tavlan och skapade automatiseringar för ett tydligare arbetsflöde
+- Planerade sprinten och satte upp sprintmål
+- Uppdaterade auth service på Render och skapade en ny PostgreSQL databas
+- Konfigurerade den lokala utvecklingsmiljön för auth service
+- Konfigurerade lokala properties filer för email service och order service
 
-Som Scrum master satte jag sprintmål, påminde om möten, återkopplade med gruppmedlemmarna om vilken stadie dem befann sig i, vilka blockerare som fanns i deras väg samt såg till att vi körde muntlig poker planning. Jag uppdaterade även trello tavlan åt alla, d.v.s. alla kort osv.
+### Eventuella problem och hur jag löste dem
+De ansvariga för email service och order service hann inte konfigurera sina lokala miljöer enligt plan. Jag tog därför initiativ till att göra detta för att undvika att arbetet stannade upp.
 
-## Sprint 2 - vecka 39, 21 September - 30 September
-### Denna vecka gick åt att försöka få till det så att Ellinor och Erik fick igång sina tjänster lokalt då dem inte fick till det under föregående vecka. Jag gick igenom det stegvis med Ellinor då hon hade det väldigt svårt. Erik var mer självständig så hjälp behövdes inte på den fronten.
+### Samarbete och agilt arbete
+Jag var Scrum Master under denna sprint och ansvarade för sprintmål, mötespåminnelser och uppföljning av gruppens arbete. Jag stämde regelbundet av uppgifternas status och eventuella blockerare samt såg till att vi genomförde muntlig planning poker för att uppskatta arbetsuppgifternas omfattning.
 
-Denna vecka var Johan Scrum Master och jag hjälpte honom då att uppdatera vår backlog i trello med nya uppgifter samt så uppdaterade jag åt trello för alla. 
-Denna vecka 
-FE-01 Skapade repot för frontend tillsammans med Johan
-FE-04 ordnade så att Ellinor också kunde köra det lokalt
-FE-05 tillät frontend mot auth-service, CORS-config
-FE-08 returnerade inloggningsdata som DTO
+Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgifter och statusar när detta inte gjordes löpande.
 
-mini-blockerare: behövde uppdatera main så att vi fick react-router installerat, allokera tid för att göra setup åt Ellinor
+## Sprint 2 – Vecka 39, 21–27 september
+### Vad jag arbetade med
+- FE-01: Skapade frontend repot tillsammans med Johan.
+- FE-04: Hjälpte Ellinor att få igång frontend lokalt.
+- FE-05: Konfigurerade CORS i auth service för att tillåta anrop från frontend.
+- FE-08: Returnerade inloggningsdata genom en DTO.
+- Hjälpte till med lokala utvecklingsmiljöer för email service och order service.
+
+### Eventuella problem och hur jag löste dem
+Ellinor hade fortfarande problem med att få igång sin tjänst lokalt, så jag gick igenom konfigurationen stegvis tillsammans med henne. Gruppen behövde även uppdatera main i frontend med React Router för att kunna fortsätta utvecklingen.
+
+### Samarbete och agilt arbete
+Johan var Scrum Master denna sprint, men jag fortsatte bidra till planeringen genom att hjälpa till att uppdatera vår backlogg med nya uppgifter. Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens arbetsuppgifter och statusar.
+
+En hel del av min tid gick åt till att hjälpa andra gruppmedlemmar med tekniska hinder, vilket gjorde att jag behövde anpassa mina egna prioriteringar efter gruppens behov.
 
 ## Sprint 3 - Vecka 40, 28 September - 4 Oktober
 ### beskriv arbetet
