@@ -92,7 +92,7 @@ Vi hade problem med driftsättningen av gateway, vilket tog en stor del av sprin
 ### Samarbete och agilt arbete
 Erik var Scrum Master under denna sprint. Vi arbetade mycket tillsammans eftersom problemen med gateway påverkade hela gruppen. Genom kontinuerliga avstämningar och gemensam felsökning kunde vi utvärdera våra lösningar och anpassa arbetet efter resultaten.
 
-Sprint 7 - Vecka 44, 26 Oktober - 30 Oktober
+## Sprint 7 - Vecka 44, 26 Oktober - 30 Oktober
 ### Vad jag arbetade med
 - FE-43: Uppdaterade README.md för auth-service med dokumentation om projektet, konfiguration och API-endpoints
 - FE-36: Uppdaterade JwtDecoder och securityfilterchain i auth service, implementerade /auth/me i controllern och skapade tillhörande DTO. Testade funktionaliteten i swagger
