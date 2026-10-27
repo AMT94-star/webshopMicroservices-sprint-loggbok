@@ -21,11 +21,11 @@ Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgi
 
 ## Sprint 2 – Vecka 39, 21–27 september
 ### Vad jag arbetade med
-- FE-01: Skapade frontend repot tillsammans med Johan.
-- FE-04: Hjälpte Ellinor att få igång frontend lokalt.
-- FE-05: Konfigurerade CORS i auth service för att tillåta anrop från frontend.
-- FE-08: Returnerade inloggningsdata genom en DTO.
-- Hjälpte till med lokala utvecklingsmiljöer för email service och order service.
+- FE-01: Skapade frontend repot tillsammans med Johan
+- FE-04: Hjälpte Ellinor att få igång frontend lokalt
+- FE-05: Konfigurerade CORS i auth service för att tillåta anrop från frontend
+- FE-08: Returnerade inloggningsdata genom en DTO
+- Hjälpte till med lokala utvecklingsmiljöer för email service och order service
 
 ### Eventuella problem och hur jag löste dem
 Ellinor hade fortfarande problem med att få igång sin tjänst lokalt, så jag gick igenom konfigurationen stegvis tillsammans med henne. Gruppen behövde även uppdatera main i frontend med React Router för att kunna fortsätta utvecklingen och detta löste jag genom en simpel react router install i en PR.
@@ -65,24 +65,27 @@ Ellinor var formellt scrum master under men johan och jag ansvarade i praktiken 
 
 ## Sprint 5 - Vecka 42, 12 Oktober - 18 Oktober
 ### Vad jag arbetade med
-Omstrukturerade koden för Cart funktionaliteten
-Ordnade cart layout så att det istället blir en dropdown från nav
-La till notifikation för när man lägger till en vara i kundvagnen
-La till så att användaren inte kan överskrida lagerstatus i sin order
-La till mindre funktionalitet som gråar ut produkt och knapp för att lägga i varukorg om produkten inte finns i lager
-FE-27 felsökte igenom order-service samt email-service då riktig mejl inte skickades. Löstes genom uppdatering av app-lösen samt små properties ändringar i spring-messenger. Tog hjälp av Johan för att ordna med spring-messenger då han är ägaren till det GitHub packaget.
-Undersökte om betallösning för att kunna påbörja implemenation av Stripe Checkout
+- FE-Extra: Omstrukturerade koden för kundvagnens funktionalitet
+- FE-Extra: Ändrade kundvagnens layout till en dropdown i navigeringsmenyn
+- FE-Extra: Lade till notifikationer när produkter läggs till i kundvagnen
+- FE-Extra: Implementerade lagerkontroll så att användaren inte kan beställa fler produkter än vad som finns i lager
+- FE-Extra: Lade till visuell återkoppling genom att gråa ut produkter och köpknappar när varor är slut i lager
+- FE-27: Felsökte order-service och email-service för att få mejlutskick att fungera.
+- Undersökte och dokumenterade betallösningar inför en eventuell prototyp med Stripe Checkout
 
+### Eventuella problem och hur jag löste dem
+FE-27: Orderbekräftelser skickades inte via mejl. Jag löste problemet genom att uppdatera applösenordet och justera properties-konfigurationen i Spring Messenger. Jag tog hjälp av Johan med Spring Messenger eftersom han ansvarade för GitHub-paketet.
 
-Denna vecka var jag Scrum Master. Jag satte upp backlog samt tilldelning av uppgifterna.
-Denna vecka var lite spretig. 
+### Samarbete och agilt arbete
+Jag var Scrum Master under sprinten och ansvarade för att planera backloggen och fördela arbetsuppgifterna. Jag samarbetade även med Johan vid felsökningen av Spring Messenger.
 
 ## Sprint 6 - Vecka 43, 19 Oktober - 25 Oktober
 ### Erik
 Denna vecka har jag hittills:
-Fått upp repot för payment-service samt ett simpelt upplägg, bjudit in collaborators
+FE-31 Fått upp repot för payment-service samt ett simpelt upplägg, bjudit in collaborators
 Vi hade problem med driftsättning av gateway, veckan gick åt det
-httponly cookie för backend gateway, testning för att bekräfta funktionalitet
+FE-34 httponly cookie för backend gateway, testning för att bekräfta funktionalitet
+Sprint review presenterades av mig och johan, erik var ej på plats.
 
 Sprint 7 - Vecka 44
 uppdaterat readme.md för auth service repot
