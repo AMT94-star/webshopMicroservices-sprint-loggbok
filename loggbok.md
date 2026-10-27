@@ -3,7 +3,7 @@ Aslihan Taskin
 
 ## Inledande sammanfattning
 
-## Sprint 1 – Vecka 38, 14–20 september
+## Sprint 1 – Vecka 38, 14 September – 18 September
 ### Vad jag arbetade med
 - Strukturerade trello tavlan och skapade automatiseringar för ett tydligare arbetsflöde
 - Planerade sprinten och satte upp sprintmål
@@ -19,7 +19,7 @@ Jag var Scrum Master under denna sprint och ansvarade för sprintmål, mötespå
 
 Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgifter och statusar när detta inte gjordes löpande.
 
-## Sprint 2 – Vecka 39, 21–27 september
+## Sprint 2 – Vecka 39, 21 September – 25 September
 ### Vad jag arbetade med
 - FE-01: Skapade frontend repot tillsammans med Johan
 - FE-04: Hjälpte Ellinor att få igång frontend lokalt
@@ -35,7 +35,7 @@ Johan var Scrum Master denna sprint, men jag fortsatte bidra till planeringen ge
 
 En hel del av min tid gick åt till att hjälpa andra gruppmedlemmar med tekniska hinder, vilket gjorde att jag behövde anpassa mina egna prioriteringar efter gruppens behov.
 
-## Sprint 3 - Vecka 40, 28 September - 4 Oktober
+## Sprint 3 - Vecka 40, 28 September - 2 Oktober
 ### Vad jag arbetade med
 - FE-09: Logga in från frontend
 - FE-10: Visa välkomstsida efter inloggning
@@ -49,7 +49,7 @@ Tidsplanen blev tajt för Erik eftersom han ansvarade för både FE-15 och FE-16
 ### Samarbete och agilt arbete
 Erik var scrum master under denna sprint. Jag fortsatte även denna vecka med att komplettera backloggen i trello med nya uppgifter och fortsatte att hålla gruppmedlemmarnas uppgifter och statusar uppdaterade.
 
-## Sprint 4 - Vecka 41, 5 Oktober - 11 Oktober
+## Sprint 4 - Vecka 41, 5 Oktober - 9 Oktober
 ### Vad jag arbetade med
 - FE-22: Möjlighet att logga ut
 - FE-28: Sökfält med realtid filtrering för produkter på produktsidan
@@ -63,31 +63,37 @@ Ellinor hade svårt att komma igång med sitt ansvar som scrum master, vilket p�
 ### Samarbete och agilt arbete
 Ellinor var formellt scrum master under men johan och jag ansvarade i praktiken för stora delar av planeringen och uppföljning. Vi gick igenom agila punkterna under mötena och fördelade arbetsuppgifterna. Jag fortsatte även att komplettera backlog med nya uppgifter och uppdatera alla trello kort.
 
-## Sprint 5 - Vecka 42, 12 Oktober - 18 Oktober
+## Sprint 5 - Vecka 42, 12 Oktober - 16 Oktober
 ### Vad jag arbetade med
 - FE-Extra: Omstrukturerade koden för kundvagnens funktionalitet
 - FE-Extra: Ändrade kundvagnens layout till en dropdown i navigeringsmenyn
 - FE-Extra: Lade till notifikationer när produkter läggs till i kundvagnen
 - FE-Extra: Implementerade lagerkontroll så att användaren inte kan beställa fler produkter än vad som finns i lager
 - FE-Extra: Lade till visuell återkoppling genom att gråa ut produkter och köpknappar när varor är slut i lager
-- FE-27: Felsökte order-service och email-service för att få mejlutskick att fungera.
+- FE-27: Felsökte order service och email service för att ta reda på varför mejlutskick inte fungerade
 - Undersökte och dokumenterade betallösningar inför en eventuell prototyp med Stripe Checkout
 
 ### Eventuella problem och hur jag löste dem
-FE-27: Orderbekräftelser skickades inte via mejl. Jag löste problemet genom att uppdatera applösenordet och justera properties-konfigurationen i Spring Messenger. Jag tog hjälp av Johan med Spring Messenger eftersom han ansvarade för GitHub-paketet.
+FE-27: Orderbekräftelser skickades inte via mejl. Jag löste problemet genom att uppdatera applösenordet och justera properties konfigurationen i spring messenger. Jag tog hjälp av Johan när det visade sig att spring messenger behövde korrigeras eftersom han ansvarade för github paketet. Vi arbetade därefter tillsammans för att lösa problemet.
 
 ### Samarbete och agilt arbete
-Jag var Scrum Master under sprinten och ansvarade för att planera backloggen och fördela arbetsuppgifterna. Jag samarbetade även med Johan vid felsökningen av Spring Messenger.
+Jag var scrum master under sprinten och ansvarade för att planera backloggen och fördela arbetsuppgifterna. Jag samarbetade även med Johan vid felsökningen av spring messenger.
 
-## Sprint 6 - Vecka 43, 19 Oktober - 25 Oktober
-### Erik
-Denna vecka har jag hittills:
-FE-31 Fått upp repot för payment-service samt ett simpelt upplägg, bjudit in collaborators
-Vi hade problem med driftsättning av gateway, veckan gick åt det
-FE-34 httponly cookie för backend gateway, testning för att bekräfta funktionalitet
-Sprint review presenterades av mig och johan, erik var ej på plats.
+## Sprint 6 - Vecka 43, 19 Oktober - 23 Oktober
+### Vad jag arbetade med
+- FE-31: Skapade repository för payment service med en grundläggande projektstruktur och bjöd in gruppmedlemmarna som collaborators.
+- FE-33: Arbetade tillsammans med gruppen för att åtgärda problem med driftsättningen av gateway på Render.
+- FE-34: Implementerade hantering av JWT via httponly cookie i gateway vid inloggning och skyddade anrop. Gateway läser JWT från cookien och vidarebefordrar den till mikrotjänsterna. Testade funktionaliteten. Ellinor ansvarade för utloggningsmetoderna för FE-34.
 
-Sprint 7 - Vecka 44
-uppdaterat readme.md för auth service repot
-uppdaterat auth service samt testat i swagger för bekräftad funktionalitet - FE-36
+### Eventuella problem och hur jag löste dem
+Vi hade problem med driftsättningen av gateway, vilket tog en stor del av sprinten. Vi felsökte tillsammans, testade olika lösningar och omvärderade kontinuerligt vårt tillvägagångssätt för att komma vidare.
+
+### Samarbete och agilt arbete
+Erik var Scrum Master under denna sprint. Vi arbetade mycket tillsammans eftersom problemen med gateway påverkade hela gruppen. Genom kontinuerliga avstämningar och gemensam felsökning kunde vi utvärdera våra lösningar och anpassa arbetet efter resultaten.
+
+Sprint 7 - Vecka 44, 26 Oktober - 30 Oktober
+### Vad jag arbetade med
+- FE-43: Uppdaterade README.md för auth service repository
+- FE-36: uppdaterat auth service samt testat i swagger för bekräftad funktionalitet
+- FE-38: Undersökte integrationstestning, Vitest, React Testing Library och MSW
 
