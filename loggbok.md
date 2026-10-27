@@ -30,7 +30,7 @@ Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgi
 Ellinor hade fortfarande problem med att få igång sin tjänst lokalt, så jag gick igenom konfigurationen stegvis tillsammans med henne. Gruppen behövde även uppdatera main i frontend med React Router för att kunna fortsätta utvecklingen och detta löste jag genom en simpel react router install i en PR.
 
 ### Samarbete och agilt arbete
-Johan var scrum master denna sprint, men jag fortsatte bidra till planeringen genom att hjälpa till att uppdatera vår backlogg med nya uppgifter. Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens arbetsuppgifter och statusar.
+Johan var scrum master denna sprint, men jag fortsatte bidra till planeringen genom att hjälpa till att uppdatera vår backlogg med nya uppgifter. Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens arbetsuppgifter och statusar. Johan och jag satte även poäng för veckans sprintmål.
 
 En hel del av min tid gick åt till att hjälpa andra gruppmedlemmar med tekniska hinder vilket gjorde att jag behövde anpassa mina egna prioriteringar efter gruppens behov.
 
