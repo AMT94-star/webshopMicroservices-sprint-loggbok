@@ -70,6 +70,7 @@ Ellinor var formellt scrum master under men johan och jag ansvarade i praktiken 
 - FE-Extra: Lade till notifikationer när produkter läggs till i kundvagnen
 - FE-Extra: Implementerade lagerkontroll så att användaren inte kan beställa fler produkter än vad som finns i lager
 - FE-Extra: Lade till visuell återkoppling genom att gråa ut produkter och köpknappar när varor är slut i lager
+- FE-Extra: Implementerade responsiv design
 - FE-27: Felsökte order service och email service för att ta reda på varför mejlutskick inte fungerade
 - Undersökte och dokumenterade betallösningar inför en eventuell prototyp med Stripe Checkout
 
@@ -93,7 +94,7 @@ Erik var Scrum Master under denna sprint. Vi arbetade mycket tillsammans efterso
 
 Sprint 7 - Vecka 44, 26 Oktober - 30 Oktober
 ### Vad jag arbetade med
-- FE-43: Uppdaterade README.md för auth service repository
-- FE-36: uppdaterat auth service samt testat i swagger för bekräftad funktionalitet
-- FE-38: Undersökte integrationstestning, Vitest, React Testing Library och MSW
+- FE-43: Uppdaterade README.md för auth-service med dokumentation om projektet, konfiguration och API-endpoints
+- FE-36: Uppdaterade JwtDecoder och securityfilterchain i auth service, implementerade /auth/me i controllern och skapade tillhörande DTO. Testade funktionaliteten i swagger
+- FE-38: Undersöker ju nu integrationstestning, Vitest, React Testing Library och MSW
 
