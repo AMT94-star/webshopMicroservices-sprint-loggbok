@@ -15,7 +15,7 @@ Aslihan Taskin
 De ansvariga för email service och order service hann inte konfigurera sina lokala miljöer enligt plan. Jag tog därför initiativ till att göra detta för att undvika att arbetet stannade upp.
 
 ### Samarbete och agilt arbete
-Jag var Scrum Master under denna sprint och ansvarade för sprintmål, mötespåminnelser och uppföljning av gruppens arbete. Jag stämde regelbundet av uppgifternas status och eventuella blockerare samt såg till att vi genomförde muntlig planning poker för att uppskatta arbetsuppgifternas omfattning.
+Jag var scrum master under denna sprint och ansvarade för sprintmål, mötespåminnelser och uppföljning av gruppens arbete. Jag stämde regelbundet av uppgifternas status och eventuella blockerare samt såg till att vi genomförde muntlig planning poker för att uppskatta arbetsuppgifternas omfattning.
 
 Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgifter och statusar när detta inte gjordes löpande.
 
@@ -30,9 +30,9 @@ Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgi
 Ellinor hade fortfarande problem med att få igång sin tjänst lokalt, så jag gick igenom konfigurationen stegvis tillsammans med henne. Gruppen behövde även uppdatera main i frontend med React Router för att kunna fortsätta utvecklingen och detta löste jag genom en simpel react router install i en PR.
 
 ### Samarbete och agilt arbete
-Johan var Scrum Master denna sprint, men jag fortsatte bidra till planeringen genom att hjälpa till att uppdatera vår backlogg med nya uppgifter. Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens arbetsuppgifter och statusar.
+Johan var scrum master denna sprint, men jag fortsatte bidra till planeringen genom att hjälpa till att uppdatera vår backlogg med nya uppgifter. Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens arbetsuppgifter och statusar.
 
-En hel del av min tid gick åt till att hjälpa andra gruppmedlemmar med tekniska hinder, vilket gjorde att jag behövde anpassa mina egna prioriteringar efter gruppens behov.
+En hel del av min tid gick åt till att hjälpa andra gruppmedlemmar med tekniska hinder vilket gjorde att jag behövde anpassa mina egna prioriteringar efter gruppens behov.
 
 ## Sprint 3 - Vecka 40, 28 September - 2 Oktober
 ### Vad jag arbetade med
@@ -60,7 +60,7 @@ Erik var scrum master under denna sprint. Jag fortsatte även denna vecka med at
 Ellinor hade svårt att komma igång med sitt ansvar som scrum master, vilket påverkade sprintplaneringen. Jag och Johan tog därför initiativ till att genomföra planeringen, sätta sprintmål och fördela arbetsuppgifterna så att arbetet kunde fortsätta.
 
 ### Samarbete och agilt arbete
-Ellinor var formellt scrum master under men johan och jag ansvarade i praktiken för stora delar av planeringen och uppföljning. Vi gick igenom agila punkterna under mötena och fördelade arbetsuppgifterna. Jag fortsatte även att komplettera backlog med nya uppgifter och uppdatera alla trello kort.
+Ellinor var formellt scrum master denna vecka men johan och jag ansvarade i praktiken för stora delar av planeringen och uppföljning. Vi gick igenom agila punkterna under mötena och fördelade arbetsuppgifterna. Jag fortsatte även att komplettera backlog med nya uppgifter och uppdatera alla trello kort.
 
 ## Sprint 5 - Vecka 42, 12 Oktober - 16 Oktober
 ### Vad jag arbetade med
