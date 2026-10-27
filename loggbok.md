@@ -81,9 +81,9 @@ Jag var scrum master under sprinten och ansvarade för att planera backloggen oc
 
 ## Sprint 6 - Vecka 43, 19 Oktober - 23 Oktober
 ### Vad jag arbetade med
-- FE-31: Skapade repository för payment service med en grundläggande projektstruktur och bjöd in gruppmedlemmarna som collaborators.
-- FE-33: Arbetade tillsammans med gruppen för att åtgärda problem med driftsättningen av gateway på Render.
-- FE-34: Implementerade hantering av JWT via httponly cookie i gateway vid inloggning och skyddade anrop. Gateway läser JWT från cookien och vidarebefordrar den till mikrotjänsterna. Testade funktionaliteten. Ellinor ansvarade för utloggningsmetoderna för FE-34.
+- FE-31: Skapade repository för payment service med en grundläggande projektstruktur och bjöd in gruppmedlemmarna som collaborators
+- FE-33: Arbetade tillsammans med gruppen för att åtgärda problem med driftsättningen av gateway på Render
+- FE-34: Implementerade hantering av JWT via httponly cookie i gateway vid inloggning och skyddade anrop. Gateway läser JWT från cookien och vidarebefordrar den till mikrotjänsterna. Testade funktionaliteten. Ellinor ansvarade för utloggningsmetoderna för FE-34
 
 ### Eventuella problem och hur jag löste dem
 Vi hade problem med driftsättningen av gateway vilket tog en stor del av sprinten. Vi felsökte tillsammans, testade olika lösningar och omvärderade kontinuerligt vårt tillvägagångssätt för att komma vidare.
