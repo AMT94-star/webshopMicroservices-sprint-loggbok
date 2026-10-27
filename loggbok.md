@@ -36,13 +36,18 @@ Johan var Scrum Master denna sprint, men jag fortsatte bidra till planeringen ge
 En hel del av min tid gick åt till att hjälpa andra gruppmedlemmar med tekniska hinder, vilket gjorde att jag behövde anpassa mina egna prioriteringar efter gruppens behov.
 
 ## Sprint 3 - Vecka 40, 28 September - 4 Oktober
-### beskriv arbetet
-Denna vecka var Erik Scrum Master. Jag uppdaterade backloggen på trello med nya uppgifter samt uppdaterade allas uppgifter återigen.
-FE-09 Logga in från frontend
-FE-10 Visa välkomstsida efter inloggning
-FE-12 Skydda privata sidor
-FE-15 Grundläggande kundvagn
-FE-14 Undersökte betallösning
+### Vad jag arbetade med
+- FE-09: Logga in från frontend
+- FE-10: Visa välkomstsida efter inloggning
+- FE-12: Skydda privata sidor
+- FE-15: Grundläggande kundvagn
+- FE-14: Undersökte betallösning
+
+### Eventuella problem och hur jag löste dem
+Tidsplanen blev tajt för Erik eftersom han ansvarade för både FE-15 och FE-16. Jag tog därför initiativ till att ta över och implementera FE-15 för att avlasta honom och minska risken att uppgifterna inte blev färdiga i tid.
+
+### Samarbete och agilt arbete
+Erik var scrum master under denna sprint. Jag fortsatte även denna vecka med att komplettera backloggen i trello med nya uppgifter och fortsatte att hålla gruppmedlemmarnas uppgifter och statusar uppdaterade.
 
 ## Sprint 4 - Vecka 41, 5 Oktober - 11 Oktober
 ###
