@@ -28,7 +28,7 @@ Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgi
 - Hjälpte till med lokala utvecklingsmiljöer för email service och order service.
 
 ### Eventuella problem och hur jag löste dem
-Ellinor hade fortfarande problem med att få igång sin tjänst lokalt, så jag gick igenom konfigurationen stegvis tillsammans med henne. Gruppen behövde även uppdatera main i frontend med React Router för att kunna fortsätta utvecklingen.
+Ellinor hade fortfarande problem med att få igång sin tjänst lokalt, så jag gick igenom konfigurationen stegvis tillsammans med henne. Gruppen behövde även uppdatera main i frontend med React Router för att kunna fortsätta utvecklingen och detta löste jag genom en simpel react router install i en PR.
 
 ### Samarbete och agilt arbete
 Johan var Scrum Master denna sprint, men jag fortsatte bidra till planeringen genom att hjälpa till att uppdatera vår backlogg med nya uppgifter. Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens arbetsuppgifter och statusar.
@@ -50,18 +50,21 @@ Tidsplanen blev tajt för Erik eftersom han ansvarade för både FE-15 och FE-16
 Erik var scrum master under denna sprint. Jag fortsatte även denna vecka med att komplettera backloggen i trello med nya uppgifter och fortsatte att hålla gruppmedlemmarnas uppgifter och statusar uppdaterade.
 
 ## Sprint 4 - Vecka 41, 5 Oktober - 11 Oktober
-###
-Denna vecka var Ellinor Scrum Master dock så blev det så att jag och Johan planerade för veckan, satte sprintmål och gick igenom agila punkter under våra möten. Jag satte upp backlog, tilldelade uppgifterna med Johan och uppdaterade trello korten.
-FE-22 Möjlighet att logga ut
-FE-28 Sökfält med realtid filtrering för produkter på produktsidan
-FE-29 404 sida vid icke existerande endpoints
-FE-Extra La till registrering i frontend
-FE-Extra CSS och Typescript för att skapa en ordentlig layout till hela hemsidan
+### Vad jag arbetade med
+- FE-22: Möjlighet att logga ut
+- FE-28: Sökfält med realtid filtrering för produkter på produktsidan
+- FE-29: 404 sida vid icke existerande endpoints
+- FE-Extra: Implementerade registrering i frontend på eget initiativ
+- FE-Extra: Implementerade CSS och Typescript för att förbättra layout och utseende till hemsidan på eget initiativ
+
+### Eventuella problem och hur jag löste dem
+Ellinor hade svårt att komma igång med sitt ansvar som scrum master, vilket påverkade sprintplaneringen. Jag och Johan tog därför initiativ till att genomföra planeringen, sätta sprintmål och fördela arbetsuppgifterna så att arbetet kunde fortsätta.
+
+### Samarbete och agilt arbete
+Ellinor var formellt scrum master under men johan och jag ansvarade i praktiken för stora delar av planeringen och uppföljning. Vi gick igenom agila punkterna under mötena och fördelade arbetsuppgifterna. Jag fortsatte även att komplettera backlog med nya uppgifter och uppdatera alla trello kort.
 
 ## Sprint 5 - Vecka 42, 12 Oktober - 18 Oktober
-###
-Denna vecka var jag Scrum Master. Jag satte upp backlog samt tilldelning av uppgifterna.
-Denna vecka var lite spretig. 
+### Vad jag arbetade med
 Omstrukturerade koden för Cart funktionaliteten
 Ordnade cart layout så att det istället blir en dropdown från nav
 La till notifikation för när man lägger till en vara i kundvagnen
@@ -70,7 +73,18 @@ La till mindre funktionalitet som gråar ut produkt och knapp för att lägga i 
 FE-27 felsökte igenom order-service samt email-service då riktig mejl inte skickades. Löstes genom uppdatering av app-lösen samt små properties ändringar i spring-messenger. Tog hjälp av Johan för att ordna med spring-messenger då han är ägaren till det GitHub packaget.
 Undersökte om betallösning för att kunna påbörja implemenation av Stripe Checkout
 
+
+Denna vecka var jag Scrum Master. Jag satte upp backlog samt tilldelning av uppgifterna.
+Denna vecka var lite spretig. 
+
 ## Sprint 6 - Vecka 43, 19 Oktober - 25 Oktober
-###
+### Erik
 Denna vecka har jag hittills:
 Fått upp repot för payment-service samt ett simpelt upplägg, bjudit in collaborators
+Vi hade problem med driftsättning av gateway, veckan gick åt det
+httponly cookie för backend gateway, testning för att bekräfta funktionalitet
+
+Sprint 7 - Vecka 44
+uppdaterat readme.md för auth service repot
+uppdaterat auth service samt testat i swagger för bekräftad funktionalitet - FE-36
+
