@@ -21,7 +21,6 @@ Jag tog även ansvar för att hålla trello tavlan uppdaterad med gruppens uppgi
 
 ## Sprint 2 – Vecka 39, 21 September – 25 September
 ### Vad jag arbetade med
-- FE-01: Skapade frontend repot tillsammans med Johan
 - FE-04: Hjälpte Ellinor att få igång frontend lokalt
 - FE-05: Konfigurerade CORS i auth service för att tillåta anrop från frontend
 - FE-08: Returnerade inloggningsdata genom en DTO
