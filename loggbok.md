@@ -105,7 +105,7 @@ Arbetet med JWT och /auth/me gav mig en djupare förståelse för autentisering 
 Vi stötte på problem med att få mockningen av API anrop att fungera korrekt i våra tester. Felet verkade vara kopplat till konfigurationen av testmiljön, framför allt setup filen. Vi undersökte därför hur testverktygen samverkar och hur konfigurationen behöver se ut för att mockningen ska fungera som tänkt.
 
 ### Samarbete och agilt arbete
-Vi arbetade gemensamt med FE-38 genom att först undersöka testverktygen individuellt och sedan samlas i ett teams möte för att gå igenom våra upptäckter och försöka förstå hur testflödet fungerar med Vitest, React Testing Library och MSW. Genom att felsöka och diskutera tillsammans kunde vi dela kunskap och få en bättre gemensam förståelse för hur testerna kan struktureras och hur de olika biblioteken samverkar.
+Denna vecka var Johan scrum master. Vi arbetade gemensamt med FE-38 genom att först undersöka testverktygen individuellt och sedan samlas i ett teams möte för att gå igenom våra upptäckter och försöka förstå hur testflödet fungerar med Vitest, React Testing Library och MSW. Genom att felsöka och diskutera tillsammans kunde vi dela kunskap och få en bättre gemensam förståelse för hur testerna kan struktureras och hur de olika biblioteken samverkar.
 
 ## Sprint 8 - Vecka 45, Redovisningsvecka
 Avstämningen med gruppen över vår presentation samt arbete tillsammans för att skapa vår powerpoint
