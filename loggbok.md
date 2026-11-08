@@ -1,7 +1,8 @@
 # Individuell sprintloggbok - Agil utveckling
 Aslihan Taskin
 
-## Inledande sammanfattning
+### Notis
+FE-46 Dokumentera backend med Javadoc: Detta har vi gjort kontinuerligt under projektets gång
 
 ## Sprint 1 – Vecka 38, 14 September – 18 September
 ### Vad jag arbetade med
@@ -95,5 +96,17 @@ Erik var scrum master under denna sprint. Vi arbetade mycket tillsammans efterso
 ### Vad jag arbetade med
 - FE-43: Uppdaterade README.md för auth-service med dokumentation om projektet, konfiguration och API-endpoints
 - FE-36: Uppdaterade JwtDecoder och securityfilterchain i auth service, implementerade /auth/me i controllern och skapade tillhörande DTO. Testade funktionaliteten i swagger
-- FE-38: Undersöker ju nu integrationstestning, Vitest, React Testing Library och MSW
+- FE-38: integrationstestning, Vitest, React Testing Library och MSW
+
+Under denna sprint låg mitt fokus framför allt på att färdigställa och förbättra befintlig funktionalitet i auth service, uppdatera dokumentation i auth service och undersöka möjligheterna till automatiserad testning av frontend.
+Arbetet med JWT och /auth/me gav mig en djupare förståelse för autentisering och hur användarens session kan hanteras mellan frontend, API gateway och auth service. Jag fick också en bättre inblick i hur frontendtester kan struktureras och hur externa API anrop kan mockas för att testa komponenter mer isolerat.
+
+### Eventuella problem och hur jag löste dem
+Vi stötte på problem med att få mockningen av API anrop att fungera korrekt i våra tester. Felet verkade vara kopplat till konfigurationen av testmiljön, framför allt setup filen. Vi undersökte därför hur testverktygen samverkar och hur konfigurationen behöver se ut för att mockningen ska fungera som tänkt.
+
+### Samarbete och agilt arbete
+Vi arbetade gemensamt med FE-38 genom att först undersöka testverktygen individuellt och sedan samlas i ett teams möte för att gå igenom våra upptäckter och försöka förstå hur testflödet fungerar med Vitest, React Testing Library och MSW. Genom att felsöka och diskutera tillsammans kunde vi dela kunskap och få en bättre gemensam förståelse för hur testerna kan struktureras och hur de olika biblioteken samverkar.
+
+## Sprint 8 - Vecka 45, Redovisningsvecka
+Avstämningen med gruppen över vår presentation samt arbete tillsammans för att skapa vår powerpoint
 
